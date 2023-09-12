@@ -2,7 +2,6 @@ import React from 'react';
 import './App.css';
 import TodoList, {TaskType} from "./TodoList";
 
-
 function App() {
     // BLL:
     const todoListTitle_1: string = "What to learn"
